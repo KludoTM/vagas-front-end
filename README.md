@@ -1,13 +1,13 @@
 # O trabalho por aqui...
 
-Que tal fazer parte de um time com atitude “get Fˆ%#ing things done”? 
-Participar de uma das maiores disrupções no mercado? 
+Que tal fazer parte de um time com muito F&#da? 
+Participar da construção de algo incrível? 
 Ter a oportunidade de trabalhar com tecnologias e conceitos inovadores, como:
 
 * Práticas ágeis como Kanban / Scrum
 * AWS
 * Escalabilidade
-* Micro servicços e aplicações distribuídas
+* Micro serviços e aplicações distribuídas
 * Git
 * React
 
